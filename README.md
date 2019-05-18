@@ -1,7 +1,8 @@
+List of requirements to be completed in this assignment
 1.	Write a Python program which accepts the radius of a circle from the user and compute the area (DONE)
 2.	Write a Python program to check if a number is positive, negative or zero (DONE)
 3.	Write a Python function to check whether a number is completely divisible by another number. Accept two integer values form the user (DONE)
-4.	Write a Python program that accepts an integer (n) and computes the value of (n + nn + nnn)
+4.	Write a Python program that accepts an integer (n) and computes the value of (n + nn + nnn) (DONE)
 5.	Write a Python program to calculate number of days between two dates
 6.	Write a Python program to get the volume of a sphere, please take the radius as input from user. V=4 / 3 πr3
 7.	Write a Python program to get the difference between a given number and 17, difference cannot be negative
