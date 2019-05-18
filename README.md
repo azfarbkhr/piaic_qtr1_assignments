@@ -3,7 +3,7 @@ List of requirements to be completed in this assignment
 2.	Write a Python program to check if a number is positive, negative or zero (DONE)
 3.	Write a Python function to check whether a number is completely divisible by another number. Accept two integer values form the user (DONE)
 4.	Write a Python program that accepts an integer (n) and computes the value of (n + nn + nnn) (DONE)
-5.	Write a Python program to calculate number of days between two dates
+5.	Write a Python program to calculate number of days between two dates (DONE)
 6.	Write a Python program to get the volume of a sphere, please take the radius as input from user. V=4 / 3 πr3
 7.	Write a Python program to get the difference between a given number and 17, difference cannot be negative
 8.	Write a Python program to get a new string from a given string where "Is" has been added to the front. If the given string already begins with "Is" then return the string unchanged
