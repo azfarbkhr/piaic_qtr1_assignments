@@ -3,6 +3,10 @@ REQUIREMENTS
 6. Write a Python program to get the volume of a sphere, please take the radius as input from user. V=4 / 3 πr3
 '''
 
+# print requirements
+print("Requirements: a Python program to get the volume of a sphere, please take the radius as input from user")
+print()
+
 
 # variables used
 radius = 0
