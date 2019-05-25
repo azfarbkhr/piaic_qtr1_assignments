@@ -6,7 +6,7 @@ List of requirements to be completed in this assignment
 5.	Write a Python program to calculate number of days between two dates (DONE)
 6.	Write a Python program to get the volume of a sphere, please take the radius as input from user. V=4 / 3 πr3 (DONE)
 7.	Write a Python program to get the difference between a given number and 17, difference cannot be negative (DONE)
-8.	Write a Python program to get a new string from a given string where "Is" has been added to the front. If the given string already begins with "Is" then return the string unchanged
+8.	Write a Python program to get a new string from a given string where "Is" has been added to the front. If the given string already begins with "Is" then return the string unchanged (DONE)
 9.	Write a Python program to get a string which is n (non-negative integer) copies of a given string
 10.	Write a Python program to find whether a given number (accept from the user) is even or odd, print out an appropriate message to the user.
 11.	Write a Python program to test whether a passed letter is a vowel or not
