@@ -9,7 +9,7 @@ List of requirements to be completed in this assignment
 8.	Write a Python program to get a new string from a given string where "Is" has been added to the front. If the given string already begins with "Is" then return the string unchanged (DONE)
 9.	Write a Python program to get a string which is n (non-negative integer) copies of a given string (DONE)
 10.	Write a Python program to find whether a given number (accept from the user) is even or odd, print out an appropriate message to the user. (DONE)
-11.	Write a Python program to test whether a passed letter is a vowel or not
+11.	Write a Python program to test whether a passed letter is a vowel or not. (DONE)
 12.	Write a Python program that will accept the base and height of a triangle and compute the area (https://www.khanacademy.org/math/basic-geo/basic-geo-area-and-perimeter/area-triangle/a/area-of-triangle)
 13.	Write a Python program that will return true if the two given integer values are equal or their sum or difference is 5.
 14.	Write a Python program to solve (x + y) * (x + y)
