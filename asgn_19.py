@@ -9,6 +9,7 @@ inDistance = 0
 ydDistance = 0
 mlDistance = 0
 
+#get user input
 while True:
     try:
         ftDistance = int(input("Please enter a number in feet to convert: "))
