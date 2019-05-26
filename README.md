@@ -10,13 +10,13 @@ List of requirements to be completed in this assignment
 9.	Write a Python program to get a string which is n (non-negative integer) copies of a given string (DONE)
 10.	Write a Python program to find whether a given number (accept from the user) is even or odd, print out an appropriate message to the user. (DONE)
 11.	Write a Python program to test whether a passed letter is a vowel or not. (DONE)
-12.	Write a Python program that will accept the base and height of a triangle and compute the area (https://www.khanacademy.org/math/basic-geo/basic-geo-area-and-perimeter/area-triangle/a/area-of-triangle)
-13.	Write a Python program that will return true if the two given integer values are equal or their sum or difference is 5.
-14.	Write a Python program to solve (x + y) * (x + y)
-15.	Write a Python program to compute the future value of a specified principal amount, rate of interest, and a number of years.
-16.	Write a Python program to compute the distance between the points (x1, y1) and (x2, y2). https://en.wikipedia.org/wiki/Euclidean_distance
-17.	Write a Python program to convert height (in feet and inches) to centimetres.
-18.	Write a Python program to calculate the hypotenuse of a right angled triangle
+12.	Write a Python program that will accept the base and height of a triangle and compute the area (https://www.khanacademy.org/math/basic-geo/basic-geo-area-and-perimeter/area-triangle/a/area-of-triangle) (DONE)
+13.	Write a Python program that will return true if the two given integer values are equal or their sum or difference is 5.(DONE)
+14.	Write a Python program to solve (x + y) * (x + y) (DONE)
+15.	Write a Python program to compute the future value of a specified principal amount, rate of interest, and a number of years. (DONE)
+16.	Write a Python program to compute the distance between the points (x1, y1) and (x2, y2). https://en.wikipedia.org/wiki/Euclidean_distance (DONE)
+17.	Write a Python program to convert height (in feet and inches) to centimetres. (DONE)
+18.	Write a Python program to calculate the hypotenuse of a right angled triangle. 
 19.	Write a Python program to convert the distance (in feet) to inches, yards, and miles. 1 feet = 12 inches, 3 feet = 1 yard, 5280 feet = 1 mile
 20.	Write a Python program to convert all units of time into seconds.
 21.	Write a Python program to convert seconds to day, hour, minutes and seconds.
