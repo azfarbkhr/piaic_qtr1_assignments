@@ -17,7 +17,7 @@ List of requirements to be completed in this assignment
 16.	Write a Python program to compute the distance between the points (x1, y1) and (x2, y2). https://en.wikipedia.org/wiki/Euclidean_distance (DONE)
 17.	Write a Python program to convert height (in feet and inches) to centimetres. (DONE)
 18.	Write a Python program to calculate the hypotenuse of a right angled triangle. 
-19.	Write a Python program to convert the distance (in feet) to inches, yards, and miles. 1 feet = 12 inches, 3 feet = 1 yard, 5280 feet = 1 mile
+19.	Write a Python program to convert the distance (in feet) to inches, yards, and miles. 1 feet = 12 inches, 3 feet = 1 yard, 5280 feet = 1 mile (DONE)
 20.	Write a Python program to convert all units of time into seconds.
 21.	Write a Python program to convert seconds to day, hour, minutes and seconds.
 22.	Write a Python program to calculate body mass index. (https://www.thecalculatorsite.com/articles/health/bmi-formula-for-bmi-calculations.php)
