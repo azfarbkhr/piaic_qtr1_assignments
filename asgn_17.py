@@ -12,7 +12,7 @@ length_in = 0
 # get user input
 while True:
     try:
-        length_cm = int(input("Please enter a number in centimeters to convert: "))
+        length_cm = int(input("Please enter a number to convert to centimeters: "))
         if length_cm < 0:
             raise ValueError
         break
