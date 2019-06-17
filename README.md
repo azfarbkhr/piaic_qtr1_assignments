@@ -50,9 +50,9 @@ List of requirements to be completed in this assignment
 
 25.	Write a Python program to calculate the sum of the digits in an integer (DONE)
 
-26.	Write a Python program to convert an integer to Binary, Octal and Hexadecimal numbers
+26.	Write a Python program to convert an integer to Binary, Octal and Hexadecimal numbers (DONE)
 
-27.	Write a program to convert binary number to Decimal number
+27.	Write a program to convert binary number to Decimal number (DONE)
 
 28.	Write a program to convert Octal number to Decimal number
 
