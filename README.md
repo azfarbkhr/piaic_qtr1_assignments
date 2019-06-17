@@ -43,7 +43,7 @@ List of requirements to be completed in this assignment
 
 22.	Write a Python program to calculate body mass index. (https://www.thecalculatorsite.com/articles/health/bmi-formula-for-bmi-calculations.php) (DONE)
 
-23.	Write a Python program to convert temperatures to and from Celsius, Fahrenheit
+23.	Write a Python program to convert temperatures to and from Celsius, Fahrenheit (DONE)
 (Practice After Loops have been discussed)
 
 24.	Write a python program to sum of the first n positive integers
