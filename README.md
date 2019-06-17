@@ -54,9 +54,9 @@ List of requirements to be completed in this assignment
 
 27.	Write a program to convert binary number to Decimal number (DONE)
 
-28.	Write a program to convert Octal number to Decimal number
+28.	Write a program to convert Octal number to Decimal number (DONE)
 
-29.	Write a program to convert Hexadecimal number to Decimal number
+29.	Write a program to convert Hexadecimal number to Decimal number (DONE)
 
 30.	Write a Python program to count the number occurrence of a specific character in a string
 
