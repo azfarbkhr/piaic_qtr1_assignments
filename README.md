@@ -46,9 +46,9 @@ List of requirements to be completed in this assignment
 23.	Write a Python program to convert temperatures to and from Celsius, Fahrenheit (DONE)
 (Practice After Loops have been discussed)
 
-24.	Write a python program to sum of the first n positive integers
+24.	Write a python program to sum of the first n positive integers (DONE)
 
-25.	Write a Python program to calculate the sum of the digits in an integer
+25.	Write a Python program to calculate the sum of the digits in an integer (DONE)
 
 26.	Write a Python program to convert an integer to Binary, Octal and Hexadecimal numbers
 
