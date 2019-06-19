@@ -58,7 +58,7 @@ List of requirements to be completed in this assignment
 
 29.	Write a program to convert Hexadecimal number to Decimal number (DONE)
 
-30.	Write a Python program to count the number occurrence of a specific character in a string
+30.	Write a Python program to count the number occurrence of a specific character in a string (DONE)
 
 31.	Write a Python program to compute the greatest common divisor (GCD) of two positive integers. (https://en.wikipedia.org/wiki/Euclidean_algorithm)
 
