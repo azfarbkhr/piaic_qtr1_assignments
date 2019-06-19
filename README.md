@@ -60,9 +60,9 @@ List of requirements to be completed in this assignment
 
 30.	Write a Python program to count the number occurrence of a specific character in a string (DONE)
 
-31.	Write a Python program to compute the greatest common divisor (GCD) of two positive integers. (https://en.wikipedia.org/wiki/Euclidean_algorithm)
+31.	Write a Python program to compute the greatest common divisor (GCD) of two positive integers. (https://en.wikipedia.org/wiki/Euclidean_algorithm) (DONE)
 
-32.	Write a Python program to get the least common multiple (LCM) of two positive integers (https://en.wikipedia.org/wiki/Least_common_multiple)
+32.	Write a Python program to get the least common multiple (LCM) of two positive integers (https://en.wikipedia.org/wiki/Least_common_multiple) (DONE)
 
 33.	Write a Python program which accepts the user's first and last name and print them in reverse order with a space between them (Practice After Loops has been discussed)
 
