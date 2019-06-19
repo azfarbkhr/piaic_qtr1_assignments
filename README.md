@@ -64,11 +64,11 @@ List of requirements to be completed in this assignment
 
 32.	Write a Python program to get the least common multiple (LCM) of two positive integers (https://en.wikipedia.org/wiki/Least_common_multiple) (DONE)
 
-33.	Write a Python program which accepts the user's first and last name and print them in reverse order with a space between them (Practice After Loops has been discussed)
+33.	Write a Python program which accepts the user's first and last name and print them in reverse order with a space between them (Practice After Loops has been discussed) (DONE)
 
-34.	Input a text and count the occurrences of vowels and consonant 
+34.	Input a text and count the occurrences of vowels and consonant (DONE)
 
-35.	Write a Python program to find the number of notes (Sample of notes: 10, 20, 50, 100, 500, and 1000 ) against an given amount
+35.	Write a Python program to find the number of notes (Sample of notes: 10, 20, 50, 100, 500, and 1000 ) against an given amount (DONE)
 
 36.	Write a program to check whether given input is palindrome or not
 
