@@ -70,7 +70,7 @@ List of requirements to be completed in this assignment
 
 35.	Write a Python program to find the number of notes (Sample of notes: 10, 20, 50, 100, 500, and 1000 ) against an given amount (DONE)
 
-36.	Write a program to check whether given input is palindrome or not
+36.	Write a program to check whether given input is palindrome or not (DONE)
 
 37.	Write a Python program to reverse the digits of a given number and add it to the original, If the sum is not a palindrome repeat this procedure
 
