@@ -91,7 +91,7 @@ List of requirements to be completed in this assignment
 * * 
 *
 
-42.	Write a Python program to construct the following pattern, using a nested for loop
+42.	Write a Python program to construct the following pattern, using a nested for loop (DONE)
 1 
 1 2 
 1 2 3 
