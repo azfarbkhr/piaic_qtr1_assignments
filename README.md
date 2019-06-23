@@ -78,9 +78,9 @@ List of requirements to be completed in this assignment
 
 39.	Write a Python program to create the multiplication table (from 1 to 10) of a number (DONE)
 
-40.	Write a Python program that accepts a string and calculate the number of digits and letters Sample Data : Python 3.2, Expected Output : Letters 6, Digits 2
+40.	Write a Python program that accepts a string and calculate the number of digits and letters Sample Data : Python 3.2, Expected Output : Letters 6, Digits 2 (DONE)
 
-41.	Write a Python program to construct the following pattern, using a nested for loop
+41.	Write a Python program to construct the following pattern, using a nested for loop (DONE)
 * 
 * * 
 * * * 
