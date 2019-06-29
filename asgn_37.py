@@ -4,3 +4,18 @@ Requirement
 '''
 
 # variables used
+digits = '1473'
+
+
+# logic used
+def is_palindrome (number):
+    reversed_number = int(str(number)[::-1])
+    sum_num = int(number) + reversed_number
+
+    if sum_num == int(str(sum_num)[::-1]):
+        return sum_num
+    else:
+        return is_palindrome (sum_num)
+
+
+print(is_palindrome(digits))

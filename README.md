@@ -72,7 +72,7 @@ List of requirements to be completed in this assignment
 
 36.	Write a program to check whether given input is palindrome or not (DONE)
 
-37.	Write a Python program to reverse the digits of a given number and add it to the original, If the sum is not a palindrome repeat this procedure
+37.	Write a Python program to reverse the digits of a given number and add it to the original, If the sum is not a palindrome repeat this procedure (DONE)
 
 38.	Write a Python program to get the Fibonacci series between 0 to 50
 
@@ -102,7 +102,7 @@ List of requirements to be completed in this assignment
 1 2 
 1
 
-43.	Write a Python program to construct the following pattern, using a nested loop number. 
+43.	Write a Python program to construct the following pattern, using a nested loop number.  (DONE)
 1
 22
 333
